@@ -1,7 +1,7 @@
 {
   "name": "teamprofilegenerator",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +20,9 @@
   "dependencies": {
     "inquirer": "^8.2.0",
     "jest": "^27.4.5"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
