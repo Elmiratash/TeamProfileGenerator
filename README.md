@@ -21,7 +21,7 @@ The user should clone the repository from GitHub and download Node. This applica
 
 ## Usage
 
-Use inquirer from your command line to answer questions about your project. View walk through video here - (./Image/Screen Shot)
+Use inquirer from your command line to answer questions about your project. View walk through video here - (file:///Users/elmiratashvighi/Desktop/UCLACoding/HomeWork/TeamProfileGenerator/dist/index.html)
 
 ## License
 
