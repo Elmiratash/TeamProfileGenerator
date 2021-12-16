@@ -21,7 +21,9 @@ This application was created to generate a team profile based on user input usin
 As a manager
 I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
-Technology
+
+
+## Technology
 
 1. Node.js :
 
@@ -53,6 +55,7 @@ The application will be invoked with the following command:
 
 node app.js
 
+
 ## Usage
 
 Run commands listed in Installation.
@@ -75,13 +78,16 @@ View walk through video here - ![TeamProfile](https://user-images.githubusercont
 
 This project is license under MIT
 
+
 ## Contributing
 
 Contributors should read the installation section.
 
+
 ## Tests
 
 npm test
+
 
 ## Questions
 
