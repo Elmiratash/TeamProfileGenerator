@@ -8,8 +8,11 @@ This application was created to generate a team profile based on user input usin
 
 ## Table of Contents
 
+- [User Story](#userstory)
+- [Technology](#technology)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Features](#features)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
